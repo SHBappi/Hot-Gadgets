@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 70px;
+    margin-bottom: 100px;
    align-content: center;
    text-align: justify;
 }
@@ -14,4 +14,25 @@
 }
 h6{
     color: gray;
+}
+.card-text{
+    color: gray;
+}
+.card{ 
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px lightgray;
+}
+.card-body{
+    text-align: center;
+} 
+.phone h6{
+    float: right;
+    color: orange;
+}
+.phone{
+  
+}
+.card-deck{
+    margin: 6% 10%;
 }
