@@ -1,0 +1,17 @@
+.container{
+    margin-bottom: 70px;
+   align-content: center;
+   text-align: justify;
+}
+.container nav{
+    float: right;
+}
+.buy-now-btn{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+h6{
+    color: gray;
+}
