@@ -1,7 +1,6 @@
 .container{
-    margin-bottom: 100px;
-   align-content: center;
-   text-align: justify;
+    margin-bottom: 30px;
+    width: 100%;
 }
 .container nav{
     float: right;
@@ -15,6 +14,9 @@
 h6{
     color: gray;
 }
+.phone h6{
+    color: orange;
+}
 .card-text{
     color: gray;
 }
@@ -26,13 +28,22 @@ h6{
 .card-body{
     text-align: center;
 } 
-.phone h6{
-    float: right;
-    color: orange;
-}
-.phone{
-  
-}
 .card-deck{
     margin: 6% 10%;
+}
+h3{
+   height: 100px;
+   text-align: center;
+}
+.categories{
+    height: 100%;
+    width: 100%;
+}
+.cat3 img{
+    width: 100%;
+    padding-left:10px;
+}
+
+.cat1, .cat2{
+    text-align: justify;
 }
